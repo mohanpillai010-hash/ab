@@ -1,0 +1,191 @@
+Dealt -> Player: ['KH', '3H'] | Dealer: [2D, 'hidden']
+Dealt -> Player: ['3D', '2C'] | Dealer: [4H, 'hidden']
+Dealt -> Player: ['5H', '4D'] | Dealer: [QS, 'hidden']
+Player hits -> 4S
+Player hits -> QD
+Result -> PLAYER BUSTS | Player 23 vs Dealer 19
+Player hits -> JH
+Player: AH,2H (3) | Banker: 3H,4H (7) → BANKER
+Player: 5H,6H (1) | Banker: 7H,8H (5) → BANKER
+Player: 10H,JH (0) | Banker: QH,KH (0) → TIE
+Player: AC,2C (3) | Banker: 3C,4C (7) → BANKER
+Player: 2H,3H (5) | Banker: 4H,5H (9) → BANKER
+Player: 6H,7H (3) | Banker: 8H,9H (7) → BANKER
+Game 1: Player 3H,4H (7) vs Banker 9H,10H (9) => BANKER [NATURAL]
+Game 2: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 3: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 4: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 5: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 6: Player hearts_4,clubs_4 (8) vs Banker diamonds_4,spades_4 (8) => TIE [PLAYER_PAIR, BANKER_PAIR, NATURAL]
+Game 7: Player hearts_4,clubs_4 (8) vs Banker diamonds_4,spades_4 (8) => TIE [PLAYER_PAIR, BANKER_PAIR, NATURAL]
+Game 8: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 9: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 10: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 11: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 12: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 13: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 14: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 15: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 16: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 17: Player hearts_4,clubs_4 (8) vs Banker diamonds_4,spades_4 (8) => TIE [PLAYER_PAIR, BANKER_PAIR, NATURAL]
+Game 18: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 19: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 20: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 21: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 22: Player hearts_4,clubs_4 (8) vs Banker diamonds_4,spades_4 (8) => TIE [PLAYER_PAIR, BANKER_PAIR, NATURAL]
+Game 23: Player hearts_4,clubs_4 (8) vs Banker diamonds_4,spades_4 (8) => TIE [PLAYER_PAIR, BANKER_PAIR, NATURAL]
+Game 24: Player hearts_4,clubs_4 (8) vs Banker diamonds_4,spades_4 (8) => TIE [PLAYER_PAIR, BANKER_PAIR, NATURAL]
+Game 25: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 26: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 27: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 28: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 29: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 30: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+Game 31: Player hearts_2,clubs_1 (3) vs Banker diamonds_8,spades_8 (6) => BANKER [BANKER_PAIR, SUPER_SIX]
+Game 32: Player hearts_9,clubs_9 (8) vs Banker diamonds_2,spades_1 (3) => PLAYER [PLAYER_PAIR, NATURAL]
+P
+P
+B
+B
+B
+B
+B
+B
+T
+T
+T
+T
+B
+B
+T
+T
+B
+B
+B
+B
+B
+B
+B
+B
+T
+T
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+T
+T
+B
+B
+B
+B
+B
+B
+P
+P
+P
+P
+P
+P
+P
+P
+P
+P
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+T
+T
+B
+B
+B
+B
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+T
+B
+B
+B
+B
